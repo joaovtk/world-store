@@ -1,2 +1,2 @@
 # world-store
-The geo location store make in java
+Loja de Geo localização em java
