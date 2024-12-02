@@ -29,7 +29,8 @@ Este projeto é um aplicativo e site de geolocalização que permite aos usuári
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-
 ## ⚖️ Licença
 
 Este projeto está sob a licença MIT#, isso que dizer que ele é de livre acesso e open source podendo fazer fork e derivados, esse projeto tem como objetivo fazer eu me aprofundar os meus conhecimentos em java e spring boot e ajudar no planejamento e prototipagem.
+
+## 🏛️Politicas e termos de privacidade 
