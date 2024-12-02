@@ -1,4 +1,4 @@
-<img src=""></img>
+<img src="walpaperGEO.jpeg"></img>
 # World Store
 
 Uma breve descrição sobre o que é o projeto e seu propósito.
