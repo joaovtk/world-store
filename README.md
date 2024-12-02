@@ -1,4 +1,5 @@
 <img src="https://github.com/joaovtk/world-store/blob/main/WalpaperGEO.jpeg" />
+
 # World Store
 
 Uma breve descrição sobre o que é o projeto e seu propósito.
