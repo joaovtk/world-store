@@ -27,7 +27,7 @@ As informações coletadas serão utilizadas para:
 
 ## Licença e Contribuições
 
-Este projeto é open source e está sob a [Licença XYZ](#). Contribuições são bem-vindas, e qualquer nova funcionalidade proposta deve estar em conformidade com estas políticas.
+Este projeto é open source e está sob a [Licença MIT](#). Contribuições são bem-vindas, e qualquer nova funcionalidade proposta deve estar em conformidade com estas políticas.
 
 ## Alterações nas Políticas
 
@@ -35,4 +35,4 @@ Reservamo-nos o direito de modificar estas políticas a qualquer momento. As alt
 
 ## Contato
 
-Para perguntas ou preocupações sobre estas políticas, entre em contato através do [seu email](mailto:seuemail@example.com).
+Para perguntas ou preocupações sobre estas políticas, entre em contato através do [seu email](joaovtkinter@gmail.com).
