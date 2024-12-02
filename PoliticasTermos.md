@@ -35,4 +35,4 @@ Reservamo-nos o direito de modificar estas políticas a qualquer momento. As alt
 
 ## Contato
 
-Para perguntas ou preocupações sobre estas políticas, entre em contato através do [seu email](joaovtkinter@gmail.com).
+Para perguntas ou preocupações sobre estas políticas, entre em contato através do email joaovtkinter@gmail.com
