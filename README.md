@@ -29,3 +29,7 @@ Este projeto é um aplicativo e site de geolocalização que permite aos usuári
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
+
+## Licença
+
+Este projeto está sob a licença MIT#
