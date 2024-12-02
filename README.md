@@ -34,3 +34,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 Este projeto está sob a licença MIT#, isso que dizer que ele é de livre acesso e open source podendo fazer fork e derivados, esse projeto tem como objetivo fazer eu me aprofundar os meus conhecimentos em java e spring boot e ajudar no planejamento e prototipagem.
 
 ## 🏛️Politicas e termos de privacidade 
+O arquivo de politicas e termos se encontra em https://github.com/joaovtk/world-store/blob/main/PoliticasTermos.md
