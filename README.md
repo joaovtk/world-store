@@ -1,4 +1,4 @@
-<img src="walpaperGEO.jpeg"></img>
+[<img src="[walpaperGEO.jpeg](https://github.com/joaovtk/world-store/blob/main/WalpaperGEO.jpeg"></img>](https://github.com/joaovtk/world-store/blob/main/WalpaperGEO.jpeg)
 # World Store
 
 Uma breve descrição sobre o que é o projeto e seu propósito.
